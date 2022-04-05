@@ -58,8 +58,9 @@ p { color: #685206;
     text-justify: inter-word; }
 
 img { 
-   max-width: 100%;
-   display: block;
+    vertical-align: middle;
+    max-width: 100%;
+    display: block;
 }
 
 .tel-link a {
